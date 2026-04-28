@@ -37,3 +37,9 @@ ABC კლასიფიკაცია: Pareto-ს პრინციპზე
 <img width="985" height="174" alt="prev4" src="https://github.com/user-attachments/assets/a09d6017-dc48-40b6-99d9-517d7f41fdb3" />
 
 
+<img width="873" height="487" alt="1" src="https://github.com/user-attachments/assets/e5bd17bb-3996-47c0-a207-dc4f98d7f9c6" />
+
+<img width="870" height="487" alt="2" src="https://github.com/user-attachments/assets/f40ba5ab-ca76-440d-bb55-3498ee9de8bb" />
+
+<img width="871" height="486" alt="3" src="https://github.com/user-attachments/assets/b8eb8db9-659b-4e03-b36b-b15a5f0214f2" />
+
