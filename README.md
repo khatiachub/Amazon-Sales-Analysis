@@ -1,14 +1,13 @@
 📊 Advanced Data Analysis & Business Intelligence
-პროექტის ფარგლებში SQL-ის გამოყენებით განხორციელდა მონაცემთა სიღრმისეული ანალიზი, რომელიც ორიენტირებულია ბიზნესის ეფექტურობის გაზრდასა და სტრატეგიული გადაწყვეტილებების მიღებაზე.
+Leveraged SQL to conduct deep-dive data analysis focused on driving operational efficiency and supporting strategic business decision-making.
 
-ანალიტიკური მიღწევები:
+Analytical Achievements:
+ABC Classification: Applied the Pareto Principle (80/20 Rule) to classify products into A, B, and C categories, enabling targeted resource allocation toward high-revenue (Top 80%) inventory.
 
-ABC კლასიფიკაცია: Pareto-ს პრინციპზე დაყრდნობით, პროდუქტები დაიყო A, B და C კატეგორიებად, რაც საშუალებას იძლევა მოხდეს რესურსების ფოკუსირება მაღალშემოსავლიან (Top 80%) საქონელზე.
+MoM Growth Dynamics: Utilized SQL Window Functions to analyze monthly sales trends and growth rates, capturing seasonality patterns and market shifts.
 
-ზრდის დინამიკა (MoM Growth): Window Functions-ის გამოყენებით გაანალიზდა თვიური გაყიდვების ტრენდები და ზრდის ტემპი, რაც აუცილებელია სეზონურობისა და ბაზრის ცვლილებების დასანახად.
+Technical Optimization: Developed complex CTEs, window functions (LAG, OVER), and implemented Covering Indexes (using INCLUDE columns) to maximize query performance, reduce reporting latency, and ensure data model scalability.
 
-ტექნიკური ოპტიმიზაცია:
-მონაცემთა დამუშავებისას გამოყენებულია კომპლექსური CTEs, Window Functions (LAG, OVER) და Covering Indexes (INCLUDE columns), რაც უზრუნველყოფს რეპორტინგის მაღალ სისწრაფესა და მონაცემთა მოდელის მასშტაბირებადობას.
 <img width="1008" height="535" alt="cat1" src="https://github.com/user-attachments/assets/20382082-c741-4e43-a887-d6ea188e5fcc" />
 
 <img width="984" height="373" alt="cat2" src="https://github.com/user-attachments/assets/904d45aa-7df1-449f-b92b-b86571a80a64" />
